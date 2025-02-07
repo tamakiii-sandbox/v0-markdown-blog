@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tamakiii-sandbox/v0-markdown-blog/issues"
   },
-  "homepage": "https://github.com/tamakiii-sandbox/v0-markdown-blog#readme"
+  "homepage": "https://github.com/tamakiii-sandbox/v0-markdown-blog#readme",
+  "devDependencies": {
+    "shadcn": "^2.3.0"
+  }
 }
